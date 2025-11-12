@@ -38,4 +38,4 @@ Seguir aprendiendo, practicar la lógica de programación y construir una base s
 
 ---
 
-✨Gracias por visitar mi repositorio. Si querés conectar, podés encontrarme en [LinkedIn](www.linkedin.com/in/daianamartínez)
+✨Gracias por visitar mi repositorio. Si querés conectar, podés encontrarme en [LinkedIn][www.linkedin.com/in/daianamartínez](https://www.linkedin.com/in/daianamart%C3%ADnez/)
