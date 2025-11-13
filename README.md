@@ -26,7 +26,7 @@ Mi objetivo con este espacio es documentar mi progreso, aplicar lo aprendido y c
 ## 🛠️ Tecnologías y herramientas
 | Herramienta | Uso principal |
 |--------------|----------------|
-| 🐍 **Python 3.13.6 | Lenguaje de programación |
+| 🐍 Python 3.13.6 | Lenguaje de programación |
 | 💻 **Visual Studio Code** | Entorno de desarrollo |
 | 🔗 **Git / GitHub** | Control de versiones |
 | 📊 **Excel / CSV** | Análisis básico de datos |
