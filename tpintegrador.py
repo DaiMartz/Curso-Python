@@ -1,4 +1,3 @@
-
 personas = []
 
 with open("recursosPython (1).csv", "r", encoding="utf-8") as archivo:
