@@ -11,13 +11,14 @@ Mi objetivo con este espacio es documentar mi progreso, aplicar lo aprendido y c
 🔹 Mini proyectos de lógica y resolución de problemas  
 🔹 Scripts aplicados a tareas cotidianas  
 🔹 Trabajo integrador final del curso:
-  1) Convertir el archivo de Excel en el formato .CSV
 
-  2) Leer los datos del archivo .CSV y cargarlos en un diccionario.
+    1) Convertir el archivo de Excel en el formato .CSV
+
+    2) Leer los datos del archivo .CSV y cargarlos en un diccionario.
  
-  3)Mostrar por pantalla los datos completos de las personas con apellido Gomez.
+    3)Mostrar por pantalla los datos completos de las personas con apellido Gomez.
 
-  4)Crear un nuevo archivo .CSV y guardar los datos de las personas que tienen residencia en la ciudad de Santa Fe o Cordoba.
+    4)Crear un nuevo archivo .CSV y guardar los datos de las personas que tienen residencia en la ciudad de Santa Fe o Cordoba.
   
 **Observación:** La consigna solicita resolver el procesamiento de archivos CSV de manera “rústica”, utilizando únicamente funciones nativas de Python. Esto permite demostrar que se comprendieron y aplicaron los conceptos fundamentales vistos en el curso. 
 
